@@ -1,1 +1,1 @@
-# Inferencia
+# Teste de hipótese
